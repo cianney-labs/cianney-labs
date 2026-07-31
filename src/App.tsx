@@ -34,7 +34,7 @@ function App() {
     <div className="min-h-screen bg-[radial-gradient(circle_at_top_left,_rgba(59,130,246,0.18),_transparent_35%),linear-gradient(135deg,_#020617_0%,_#0f172a_100%)] text-slate-100">
       <header className="mx-auto flex w-full max-w-7xl items-center justify-between px-6 py-6 lg:px-8">
         <a href="#" className="text-xl font-semibold tracking-[0.2em] text-white">
-          CIANNEY Labs
+          Cianney Labs
         </a>
         <nav className="hidden gap-6 text-sm text-slate-300 md:flex">
           <a href="#services" className="transition hover:text-cyan-300">
@@ -60,7 +60,7 @@ function App() {
               Construisons le futur avec la technologie.
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-8 text-slate-300">
-              CIANNEY Labs conçoit des solutions technologiques sur mesure pour les entreprises ambitieuses qui veulent évoluer avec confiance.
+              Cianney Labs conçoit des solutions technologiques sur mesure pour les entreprises ambitieuses qui veulent évoluer avec confiance.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <a
@@ -140,7 +140,7 @@ function App() {
                   Nous accompagnons les entreprises dans la transformation digitale grâce à des solutions modernes, sécurisées et conçues pour durer.
                 </p>
                 <p>
-                  Chez CIANNEY Labs, l’innovation, la qualité et l’attention portée à chaque détail sont au cœur de notre méthode de travail.
+                  Chez cianney labs, l’innovation, la qualité et l’attention portée à chaque détail sont au cœur de notre méthode de travail.
                 </p>
               </div>
             </div>
@@ -150,7 +150,7 @@ function App() {
 
       <footer id="contact" className="border-t border-slate-800 bg-slate-950/80">
         <div className="mx-auto flex max-w-7xl flex-col gap-4 px-6 py-8 text-sm text-slate-400 md:flex-row md:items-center md:justify-between lg:px-8">
-          <p>© 2026 CIANNEY Labs. Tous droits réservés.</p>
+          <p>© 2026 cianney Labs. Tous droits réservés.</p>
           <div className="flex gap-4">
             <a href="#" className="transition hover:text-cyan-300">
               LinkedIn
