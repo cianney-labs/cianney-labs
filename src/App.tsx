@@ -169,9 +169,12 @@ function App() {
             <a href="#" className="transition-colors hover:text-cyan-200">
               LinkedIn
             </a>
-            <a href="#" className="transition-colors hover:text-cyan-200">
-              Contact
-            </a>
+            <a
+  href="mailto:cianney.dev@gmail.com"
+  className="transition-colors hover:text-cyan-200"
+>
+  Contact
+</a>
           </div>
         </div>
       </footer>
